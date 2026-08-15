@@ -3,6 +3,7 @@
 All notable changes to this project.
 
 ## 2026-08
+- **[Changed]** [Moe autonomous] training_sandbox 2026-08-14 20:52 ($hash)
 - **[Changed]** [Moe autonomous] training_sandbox 2026-08-14 20:20 ($hash)
 - **[Changed]** [Moe autonomous] training_sandbox 2026-08-14 19:40 ($hash)
 - **[Changed]** [Moe autonomous] training_sandbox 2026-08-14 18:54 ($hash)
@@ -52,5 +53,4 @@ All notable changes to this project.
 - **[Changed]** [Moe autonomous] training_sandbox 2026-08-12 21:19 ($hash)
 - **[Changed]** [Moe autonomous] training_sandbox 2026-08-12 20:50 ($hash)
 - **[Changed]** [Moe autonomous] training_sandbox 2026-08-12 20:12 ($hash)
-- **[Changed]** [Moe autonomous] training_sandbox 2026-08-12 19:39 ($hash)
 
